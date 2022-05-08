@@ -1,3 +1,4 @@
 .video__iframe {
   position: static;
+  border-width: 0;
 }
