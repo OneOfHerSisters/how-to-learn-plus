@@ -1,0 +1,5 @@
+.khan {
+  background-color: hsl(0, 0%, 95%);
+  display: flex;
+  justify-content: center;
+}
